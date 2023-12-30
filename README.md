@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" />
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" width="75%" />
 <h1 align="center">Hi 👋, I'm Anjana Edirisinghe. Student Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanaed&label=Profile%20views&color=0e75b6&style=flat" alt="anjanaed" /> </p>
 
@@ -43,8 +43,4 @@
 <div align="center">
 <a href="https://github.com/anjanaed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjanaed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanaed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjanaed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaed&theme=2077" height="180em" />
 </div>
