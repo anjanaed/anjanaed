@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Anjana Edirisinghe, Student Developer.</h1>
-<center>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanaed&label=Profile%20views&color=0e75b6&style=flat" alt="anjanaed" /> </p>
-
+<center><br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=Programmer;Gamer;Web3+Analyzer+-+anjanaed.eth;Tech+Lover;" alt="Typing SVG" /></a>
+</p>
+  <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanaed&theme=dark_lover" alt="anjanaed" /></a> </p>
+<br>
 
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" width="75%" />
 <br>
@@ -14,11 +17,11 @@
 - 📫 How to reach me **anjanaape@gmail.com**
 - 📝 I regularly write articles on **Automobiles**
 - ⚡ Fun fact **It's all just 0s and 1s**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anjanaape" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="anjanaape" height="30" width="40" /></a>&nbsp&nbsp&nbsp<a href="https://linkedin.com/in/anjana-ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="anjana-ed" height="30" width="40" /></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/anjanaape" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="anjanaape" height="30" width="40" /></a></p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -35,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
+<br>
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanaed&theme=date-night" alt="anjanaed" /></p>
 
