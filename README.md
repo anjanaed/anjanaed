@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjana Edirisinghe. Student Developer</h1>
+<h1 align="center">Hi, I'm Anjana Edirisinghe, Student Developer.</h1>
 <center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanaed&label=Profile%20views&color=0e75b6&style=flat" alt="anjanaed" /> </p>
 
