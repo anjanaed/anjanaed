@@ -6,8 +6,9 @@
   <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanaed&theme=dark_lover" alt="anjanaed" /></a> </p>
 <br>
-
-<img src="https://tenor.com/view/coding-gif-24297652" align="center" width="75%" />
+<div alight="center">
+<img src="https://tenor.com/bN65M.gif" width="75%" />
+</div>  
 <br>
 </center>
 
