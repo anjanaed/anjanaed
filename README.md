@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanaed&theme=dark_lover" alt="anjanaed" /></a> </p>
 <br>
 <div alight="center">
-![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/c68f0b9e-1d88-452b-a6ba-33d4b0fef529)
+<img src="https://github.com/user-attachments/assets/c68f0b9e-1d88-452b-a6ba-33d4b0fef529"/>
 
 </div>  
 <br>
