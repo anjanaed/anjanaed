@@ -1,51 +1,91 @@
-<h1 align="center">Hi, I'm Anjana Edirisinghe, Student Developer.</h1>
-<center><br>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=Programmer;Gamer;Web3+Analyzer+-+anjanaed.eth;Tech+Lover;" alt="Typing SVG" /></a>
-</p>
-  <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanaed&theme=dark_lover" alt="anjanaed" /></a> </p>
-<br>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c68f0b9e-1d88-452b-a6ba-33d4b0fef529"/>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 😎, I'm Anjana Edirisinghe</h1>
+<h3 align="center">Full-Stack Developer | Passionate IT Student</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjanaed&label=Profile%20views&color=0e75b6&style=flat" alt="anji" /> </p>
 
-</div>  
-<br>
-</center>
 
-- 🔭 I’m currently a student at **University of Moratuwa studying IT**
-- 🌱 I’m currently learning **Software Engineering**
-- 💬 Ask me about **Python**
+
+
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Full-Stack Development**
+
+- 🧑‍🎓 I’m an Undergraduate at **University Of Moratuwa**
+
+- 💬 Ask me about **JavaScript**
+
 - 📫 How to reach me **anjanaape@gmail.com**
-- 📝 I regularly write articles on **Automobiles**
-- ⚡ Fun fact **It's all just 0s and 1s**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anjanaape" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="anjanaape" height="30" width="40" /></a>&nbsp&nbsp&nbsp<a href="https://linkedin.com/in/anjana-ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="anjana-ed" height="30" width="40" /></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/anjanaape" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="anjanaape" height="30" width="40" /></a></p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-<br>
-<h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanaed&theme=date-night" alt="anjanaed" /></p>
+  
+- ⚡ Fun fact **Call me as Ed**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+  
+  </td>
+</tr>
+</table>
+
+<br><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjanaed&title=Followers,Stars,Repositories,Experience,PullRequest,Commits,MultiLanguage,Issue&theme=algolia" alt="GitHub Trophy" />
+</p>
+
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anjanaed&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anjanaed&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/anjana-ed" target="blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" />
+  </a> &nbsp&nbsp
+  <a href="https://www.instagram.com/anjana_ed_/" target="blank">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="anji" height="50" width="50" />
+  </a>
+</p>
+
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+
 <div align="center">
-<a href="https://github.com/anjanaed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaed&theme=2077" height="180em" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,python,solidity,mongodb,postgres,nodejs,arduino,blender,c,cpp,css,html,docker,firebase,git,java,laravel,mysql,nestjs,php,postman,prisma,tailwind,ts,vercel&theme=dark&perline=13" />
+  </a>
+</div>
+
+  
+
+
+---
+
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanaed&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contributions" height="300" alt="activity-graph graph"  />
 </div>
