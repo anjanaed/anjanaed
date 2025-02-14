@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 🧑‍🎓 I’m an Undergraduate at **University Of Moratuwa**
+- 🧑‍🎓 Undergraduate at **University of Moratuwa**
 
 - 💬 Ask me about **JavaScript**
 
